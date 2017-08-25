@@ -1,1 +1,13 @@
+Accesos BD
+------------------------
 Bosqueaccess2017
+Acesso modificar codigo
+--------------------------
+
+Shift + K en el inicio
+--------------------------
+Bosque2017
+---------------------------
+Shift + j en el inicio
+
+habilita bloqueo
